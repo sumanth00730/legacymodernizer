@@ -15,3 +15,6 @@ export async function modernizeCode(prompt: string): Promise<string> {
   });
   return response.choices[0].text?.trim() || '';
 }
+
+test
+tesst2
