@@ -16,5 +16,8 @@ export async function modernizeCode(prompt: string): Promise<string> {
   return response.choices[0].text?.trim() || '';
 }
 
-test
-tesst2
+test1
+test2
+test3
+test4
+test5
